@@ -5,10 +5,9 @@ when using this material.
 
 ## Description
 
-The Jupyter notebook contains code to integrate the TOV equations for a specific neutron star crust model and calculate the mutual friction coefficients $\mathcal{B}$ as a
-function of cylindrical radius $\tilde{r}$ and relative mass fraction $\Delta M /M$. It subsequently allows numerical integration of a simple three-component neutron star
-toy model, providing the time evolution of the angular velocities $\Omega_{\rm sf}, \Omega_{\rm core}$ and $\Omega_{\rm crust}$, to determine the shape of the glitch rise
-of a Vela-like pulsar.
+The Jupyter notebook contains code to integrate the TOV equations for a specific neutron star crust model and calculate the mutual friction coefficients as a
+function of cylindrical radius and relative mass fraction. It subsequently allows numerical integration of a simple three-component neutron star toy model,
+providing the time evolution of the angular velocities, to determine the shape of the glitch rise of a Vela-like pulsar.
 
 The .txt file contains the microscopic parameters for the inner crust as given in Table 1 of Graber et al. (2018).
 

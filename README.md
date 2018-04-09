@@ -1,6 +1,5 @@
 # Rapid crust coupling and glitch rises in superfluid neutron stars
 
----
 
 This repository provides a Jupyter notebook and accompanying files to recreate the results and plots of [Graber et al. (2018)](http:).
 Please cite Graber et al. (2018) when using this material.

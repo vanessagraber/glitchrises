@@ -1,4 +1,4 @@
-Equation of state parameters from Negele and Vautherin (1973),
+Equation of state parameters from Negele & Vautherin (1973),
 vortex-nucleus interaction parameters from Epstein & Baym (1992) and
 Donati & Pizzochero (2006)
 

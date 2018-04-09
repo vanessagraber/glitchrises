@@ -1,4 +1,4 @@
-name: crustal_mutual_friction
+name: rapid_crust_coupling
 channels:
   - conda-forge
   - defaults
@@ -10,4 +10,3 @@ dependencies:
   - pandas=0.22.0
   - python=3.6.4
   - scipy=1.0.1
-  

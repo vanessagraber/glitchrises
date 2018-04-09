@@ -1,0 +1,13 @@
+name: crustal_mutual_friction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ffmpeg=3.4.2
+  - jupyter=1.0.0
+  - matplotlib=2.2.2
+  - nb_conda=2.2.1
+  - pandas=0.22.0
+  - python=3.6.4
+  - scipy=1.0.1
+  

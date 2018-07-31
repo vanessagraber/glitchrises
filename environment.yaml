@@ -1,4 +1,4 @@
-name: rapid_crust_coupling
+name: glitch_rises
 channels:
   - conda-forge
   - defaults

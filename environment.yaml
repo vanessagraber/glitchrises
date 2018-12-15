@@ -1,7 +1,7 @@
 name: glitch_rises
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - ffmpeg=3.4.2
   - jupyter=1.0.0
